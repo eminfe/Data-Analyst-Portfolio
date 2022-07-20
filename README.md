@@ -1,4 +1,4 @@
-# Meteorological-Data-Analyst-Portfolio
+# Data-Analyst-Portfolio
 
 Hello, I am Fatma! I have technical bacground Bachelor of Science Engineering (BSc(Eng)) in Meteorological Engineering and continuing Master of Science (M.S.) in Environmental Engineering (M.S.). 
 
