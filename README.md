@@ -14,8 +14,12 @@ Second part of this reposity include my projects that I have done under many onl
  - [Project 3:]()
  - [Project 4:]()
 
-### Part 2: General Projects
+### Part 2: Study Projects
  - [Project 1:]()
  - [Project 2:]()
  - [Project 3:]()
  - [Project 4:]()
+
+### Certificates
+
+### Contacts
