@@ -11,7 +11,7 @@ Second part of this reposity include my projects that I have done under many onl
 ### Part 1: Environmental & Meteorological Analysis
  - [Project 1: Basic Data Analysis with Pandas](https://github.com/eminfe/PM10_TimeSeries) 
  - [Project 2: Climate Analysis at Ataturt Airport](https://github.com/eminfe/ClimateAnalyse_AtaturkAirport)
- - [Project 3:]()
+ - [Project 3: Stock Management in Food Store](https://github.com/eminfe/FoodStore_OOP-Python-)
  - [Project 4:]()
 
 ### Part 2: Study Projects
