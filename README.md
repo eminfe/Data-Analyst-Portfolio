@@ -1,4 +1,4 @@
-# Data Analyst / Scientist Projects 
+# Data Analyst Projects 
 
 ## About 
 Hello, my name is Fatma, I have technical bacground Bachelor of Science Engineering (BSc(Eng)) in Meteorological Engineering and continuing Master of Science (M.S.) in Environmental Engineering (MSc). 
