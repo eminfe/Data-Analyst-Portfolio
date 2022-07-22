@@ -25,5 +25,7 @@ Finally you can find my contact information and social media profiles
  - Course 4: Machine Learning A-Z™: Hands-On Python & R In Data Science
 
 ### Certificates
+- Tableau 2022 A-Z: Hands-On Tableau Training for Data Science
+- SQL & Database Design A-Z: Learn MS SQL Server + PostgreSQL
 
 ### Contacts
