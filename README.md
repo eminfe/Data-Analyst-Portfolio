@@ -19,11 +19,10 @@ Finally you can find my contact information and social media profiles
  - [Project 4: Meteorological Map Making with Cartopy Library](https://github.com/eminfe/Map-Making-with-Cartopy)
 
 ### Part 2: Study Projects
- - Course 1:Tableau 2022 A-Z: Hands-On Tableau Training for Data Science
-      - 
- - Course 2:Tableau Expert: Top Visualization Techniques in Tableau 10
- - Course 3:SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL
- - Course 4:Machine Learning A-Z™: Hands-On Python & R In Data Science
+ - Course 1: Tableau 2022 A-Z: Hands-On Tableau Training for Data Science
+ - Course 2: Tableau Expert: Top Visualization Techniques in Tableau 10
+ - Course 3: SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL
+ - Course 4: Machine Learning A-Z™: Hands-On Python & R In Data Science
 
 ### Certificates
 
