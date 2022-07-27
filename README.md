@@ -1,15 +1,18 @@
 # Data Analyst Projects 
 
 ## About 
-Hello, my name is Fatma, I have technical bacground Bachelor of Science Engineering (BSc(Eng)) in Meteorological Engineering and continuing Master of Science (M.S.) in Environmental Engineering (MSc). 
+Hi! Thanks for checking out my Github repository. 
 
-First part of this reposity is mainly include my projects that I have done during my Master Program. The Scientific Programming and Data Analysis lecture helped me learn to clean, organise and visualize data. Thanks to the lecture I have been able to develop computer programs codes functional and object oriented. These projects are mainly include environmental and especially meteorological or climatological analysis. 
+My name is Fatma! I enjoy working on climate related projects with the use of big data. I hold a Bachelor of Science degree in Meteorological Engineering. I currently pursue a Master of Science degree in Environmental Engineering. 
 
-Second part of this reposity include my projects that I have done under many online courses and Kaggle Projects. I love to handle with data and enjoy with my learning process. 
+My Github repository contains three main components. 
+The first part includes my projects I have completed since the beginning of my graduate studies. The lecture on “Scientific Programming and Data Analysis” helped me learn to clean, organize, and visualize data. Thanks to the lecture, I have been able to improve my object-oriented programming and to develop various functions. These projects mostly include environmental, meteorological, and climatological analysis. 
 
-The third part include my certificates which I gained during courses
+The second part of this repository is about my self-learning. I provide codes written for assignments from online courses as well as for Kaggle Projects. It is fun to learn coding on my own, but feel free to point out any issues you come across. 
 
-Finally you can find my contact information and social media profiles
+The final part contains certificates that I obtain throughout my career. 
+
+My contact information and social media accounts are also attached. So feel free to be in touch!
 
 ## Table of Contents
 ### Part 1: Environmental & Meteorological Analysis
